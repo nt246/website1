@@ -1,5 +1,17 @@
 ---
-title: "About"
+title: "About me"
+image: media/007_nina.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: GitHub
+      href: https://github.com/nt246
+    - text: Email
+      href: mailto:nt246@cornell.edu
+
 ---
 
-About this site
+Nina Overgaard Therkildsen

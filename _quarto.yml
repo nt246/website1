@@ -8,13 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: resources.qmd
+        text: NewTab
       - about.qmd
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - minty
     css: styles.css
     toc: true
 
